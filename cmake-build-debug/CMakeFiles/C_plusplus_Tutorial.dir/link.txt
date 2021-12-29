@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\C_plusplus_Tutorial.dir/objects.a
+C:\Users\ffii_\Desktop\self\MinGW\bin\ar.exe cr CMakeFiles\C_plusplus_Tutorial.dir/objects.a @CMakeFiles\C_plusplus_Tutorial.dir\objects1.rsp
+C:\Users\ffii_\Desktop\self\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\C_plusplus_Tutorial.dir/objects.a -Wl,--no-whole-archive  -o C_plusplus_Tutorial.exe -Wl,--out-implib,libC_plusplus_Tutorial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C_plusplus_Tutorial.dir\linklibs.rsp

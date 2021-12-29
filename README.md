@@ -1,0 +1,2 @@
+[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=604s&ab_channel=freeCodeCamp.org)
+[C++ FULL COURSE For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&t=15928s&ab_channel=CodeBeauty)
